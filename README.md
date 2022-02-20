@@ -1,5 +1,5 @@
 <div id="top"></div>
-<img src="https://scontent-xsp1-1.xx.fbcdn.net/v/t39.30808-6/241266786_1339378069837667_5189927465329569184_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=174925&_nc_ohc=UyUxuI1-HKkAX9dXhFL&_nc_oc=AQnmWquiIIvIWcrbg88tSMS_VsrgDJ9nQlAcP-TbkAV8rwX2JZMq936oP2Q9tKhf9ilabrsPg8kY06EZNgtYQaJf&_nc_ht=scontent-xsp1-1.xx&oh=00_AT-l6KkeTmhnRDIW6BKSM2ftRl3oovZSXDWxOPETGFJe0g&oe=6216A888" align="right" width="120"/>
+<!--<img src="https://scontent-xsp1-1.xx.fbcdn.net/v/t39.30808-6/241266786_1339378069837667_5189927465329569184_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=174925&_nc_ohc=UyUxuI1-HKkAX9dXhFL&_nc_oc=AQnmWquiIIvIWcrbg88tSMS_VsrgDJ9nQlAcP-TbkAV8rwX2JZMq936oP2Q9tKhf9ilabrsPg8kY06EZNgtYQaJf&_nc_ht=scontent-xsp1-1.xx&oh=00_AT-l6KkeTmhnRDIW6BKSM2ftRl3oovZSXDWxOPETGFJe0g&oe=6216A888" align="right" width="120"/>-->
 
 # Hello, I am Ruri 
 > I am an aspirant web developer and illustrator.

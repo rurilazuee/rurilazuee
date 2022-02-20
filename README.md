@@ -7,7 +7,12 @@
 It is nice to see you. My Expertise are front-end coding and little bit of backend. I really love to know more about the world of the professionals and will be one of them, someday. Also, I love patting dogs, watching drama and take most of my time on Youtube. I have not started any project for this year 2022. Yet, I am still on the process of learning. But, there still more to see on my feed as days passed.
 
 ### Connect with me:
+<img width="30px" src="./img/facebook.svg" alt="Facebook">
+<img width="30px" src="./img/twitter.svg" alt="Twitter">
+<img width="30px" src="./img/instagram.svg" alt="Instagram">
 <img width="30px" src="./img/discord.svg" alt="Discord">
+<img width="30px" src="./img/youtube.svg" alt="Youtube">
+<img width="30px" src="./img/spotify.svg" alt="Spotify">
 
 
 ### Languages and Tools:
